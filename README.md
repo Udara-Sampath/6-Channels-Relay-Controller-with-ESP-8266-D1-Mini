@@ -1,4 +1,4 @@
-# Room Light Controls
+# 6 Channels Relay Controller with ESP 8266 D1 Mini
 
 This project provides firmware for controlling a 6-channel relay module using an ESP8266 D1 mini. It features a modern, responsive web UI with auto-reload functionality if the connection is lost, and relay state persistence using LittleFS so that the last known states are restored on power-up.
 
